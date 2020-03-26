@@ -1,3 +1,10 @@
 body {
   background-color: FFD1BD;
+  text-align: center;
+}
+
+.hero image {
+  background-position: center;
+  background-size: cover;
+
 }
